@@ -1,16 +1,7 @@
-# bluetooth_printing
 
-A new Flutter project.
+https://github.com/user-attachments/assets/c59edc2d-bfc0-4331-b3e3-6ceb9a54d819
 
-## Getting Started
+this repo for printing any language by flutter via bluetooth
 
-This project is a starting point for a Flutter application.
+https://github.com/user-attachments/assets/2c45e15f-b482-4725-a9d7-ca230bfc3726
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
